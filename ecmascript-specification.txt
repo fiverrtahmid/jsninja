@@ -1,0 +1,13 @@
+ECMAScript Specification
+
+Defines the standard (Rules) for the implementation of JavaScript.
+
+How JavaScript evolves
+
+JavaScript was invented by Brendan Eich in 1995 (in just 10 days). It was developed for netscape browser.
+
+It was originally named Mocha, but quickly became known as liveScript and later JavaScript.
+
+With popularity gain Netscape handed Javascript over to ECMA. Now ECMA foundation took the responsibility to standardize the language  and releasing new version!
+
+JavaScript Version see image

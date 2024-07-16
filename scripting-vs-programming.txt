@@ -1,0 +1,27 @@
+scripting vs programming language
+
+JavaScript is a scripting language and every scripting language is programming language. But, still there are some small difference between scripting and programming language.
+
+1. Scripting language interpreted and programming language is compiled.
+
+Compilers and interpreters take human-readable code and convert it to computer-readable machine code.
+
+Human readable code JavaScript, Python, java. > Interpretation or compilation > machine code.
+
+*** For JavaScript several engine work for interpretation ex: v8, Spider monkey, chakra. ***
+
+Major difference
+===================
+Interpreter reads line by line code and run.
+Compilers translate the whole code at a time and then run.
+
+Compiled code id more optimized and faster run on the other side Interpreted code is slow less optimized.
+
+Interpreted languages were significantly slower than compiled languages.
+But development of just-in-time compilation that gap is shrinking.
+
+JavaScript is interpreted language but Interpretation and compilation are go side by side.
+
+===========================
+Java is not JavaScript
+========================

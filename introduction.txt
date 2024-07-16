@@ -1,0 +1,21 @@
+What is JavaScript : 
+JAvascript is the most popular scripting language in the world. It is mostly used primarily to add interactivity to the web page. Ex: Dropdown, slider, tab, accordion, scrolling animation etc. 
+
+InterActivity: 
+1. Add new HTML to page, change the existing content, modify styles.
+
+2. React to user actions, run on mouse to remote click, pointer movements key presses.
+
+3. Send request so ver the network to remote servers download and upload files (so-called AJAX)
+
+4. Get and set cookies, ask questions to the visitor, show messages.
+
+5. Remember the data on the client-side ("local-storage").
+
+Scope Of JavaScript
+
+1. Inside the Browser (Client side JavaScript).
+2. Outside of the Browser (Server Side JavaScript-Node.js).
+
+
+Let's Focus on Browser Based JavaScript aka Client Side JavaScript
